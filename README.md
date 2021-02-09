@@ -11,4 +11,6 @@ Working on:
 - [ ] Kotalib
 
 
+Also Svelte is pog
+
 ![svele gif](https://raw.githubusercontent.com/kotakotik22/kotakotik22/main/svelte.gif)
