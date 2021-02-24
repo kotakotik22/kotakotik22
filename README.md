@@ -11,6 +11,8 @@ Working on:
 - [ ] Kotalib
 
 
+I only work on stuff for fun, so if I get bored of working on something, I will work far less, but if it is very fun, I'll work A **LOT**
+
 Also Svelte is pog
 
 ![svele gif](https://raw.githubusercontent.com/kotakotik22/kotakotik22/main/svelte.gif)
