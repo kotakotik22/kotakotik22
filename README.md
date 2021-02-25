@@ -1,5 +1,5 @@
 [![Discord](https://img.shields.io/discord/797542612470333441)](https://discord.gg/z2KEpz7Ytd) 
-[![CurseForge](https://cf.way2muchnoise.eu/author/kotakotik22.svg)](hhttps://www.curseforge.com/members/kotakotik22)
+[![CurseForge](https://cf.way2muchnoise.eu/author/kotakotik22.svg)](https://www.curseforge.com/members/kotakotik22)
 [Modrinth](https://modrinth.com/user/ySNk90L3)
 
 I stop working on projects often, I come back to them sometimes but sometimes I don't
