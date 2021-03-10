@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/797542612470333441)](https://discord.gg/z2KEpz7Ytd) 
-[![CurseForge](https://cf.way2muchnoise.eu/author/kotakotik22.svg)](https://www.curseforge.com/members/kotakotik22)
-[Modrinth](https://modrinth.com/user/ySNk90L3)
+[![CurseForge](https://img.shields.io/badge/CurseForge-kotakotik22-orange)](https://www.curseforge.com/members/kotakotik22)
+[![Modrinth](https://img.shields.io/badge/dynamic/json?color=green&label=Modrinth&query=%24.name&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fuser%2FySNk90L3)](https://modrinth.com/user/ySNk90L3)
 
 I stop working on projects often, I come back to them sometimes but sometimes I don't
 
