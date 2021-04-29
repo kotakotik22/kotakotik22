@@ -4,8 +4,8 @@
 
 I stop working on projects often, I come back to them sometimes but sometimes I don't
 
-- [ ] Currently working on something
-- [X] Doing literally nothing because I'm lazy as hell
+- [X] Currently working on something
+- [ ] Doing literally nothing because I'm lazy as hell
 
 Working on:
 
@@ -13,7 +13,7 @@ Working on:
 - [ ] XYKey
 - [ ] Chaoscraft
 - [ ] Kotalib
-
+- [X] Helping with Create railways
 
 I only work on stuff for fun, so if I get bored of working on something, I will work far less, but if it is very fun, I'll work A **LOT**
 
